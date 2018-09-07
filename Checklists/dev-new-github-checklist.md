@@ -37,7 +37,7 @@
     <td>&#9744;</td>
     <td>Turn on the NRP website using Jekyll</td>
     <td>In GitHub Settings, switch to 'Master' branch under <i>GitHub pages</i></td>
-    <td>hosting <a>video</a></td>
+    <td>View <a>video</a> on 'how to host a site'</td>
     <td></td>
   </tr>
 </table>
