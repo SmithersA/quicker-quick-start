@@ -1,2 +1,2 @@
-# onboarding-documents
-Forms, emails, and checklists to help with onboarding
+# quicker-start-documents
+Checklists to help with new platforms
