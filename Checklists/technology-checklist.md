@@ -96,7 +96,6 @@ See also: the [Custom design checklist](design-checklist.md).
     <td>U.S. Web Design System</td>
     <td>provides guide on UI components for frontend design</td>
     <td><a href="https://designsystem.digital.gov">https://designsystem.digital.gov</a></td>
-    <td></td>
   </tr>
   <tr>
     <td scope="row">2</td>
@@ -104,6 +103,5 @@ See also: the [Custom design checklist](design-checklist.md).
     <td>Chartist.js</td>
     <td>a charting library that offers custom and responsive charts</td>
     <td>go to <a href="https://www.npmjs.com/package/chartist">Chartist documentation and install page</a> or visit <a href="https://www.youtube.com/watch?v=1Js0TTX-lhg">demo video</a></td>
-    <td></td>
   </tr>
 </table>
