@@ -24,16 +24,16 @@ IT team --> Technology
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Conveys team information to Talent POC</td>
-    <td>Immediately</td>
-    <td> Supervisor</td>
+    <td>Install Ruby (recommended)</td>
+    <td><a href="https://www.ruby-lang.org/en/downloads/">Go to download page</a></td>
+    <td>https://www.ruby-lang.org/en/documentation/installation/ or https://www.codecademy.com/articles/ruby-setup</td>
   </tr>
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
-    <td>Conveys location information to Talent POC</td>
-    <td>Immediately</td>
-    <td> Supervisor</td>
+    <td>Use Chrome for the best experience</td>
+    <td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXgv62l6ndAhXKpFkKHZCLD4EQ0EN6BAgFEAQ&url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&usg=AOvVaw03KfrVWUuNnsU1_ItCEbKJ">Go to Chrome download</a></td>
+    <td>https://www.wikihow.com/Download-and-Install-Google-Chrome</td>
   </tr>
 </table>
 
@@ -52,31 +52,31 @@ IT team --> Technology
   <tr>
     <td scope="row">1</td>
     <td>&#9744;</td>
-    <td>Conveys supervisor information to Talent POC</td>
-    <td>Immediately</td>
-    <td> Supervisor</td>
+    <td>GitHub</td>
+    <td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuxa2ZlKndAhWGtVkKHfP-DBIQ0EN6BAgEEAQ&url=https%3A%2F%2Fgit-scm.com%2Fdownloads&usg=AOvVaw0lUezWX14XXzFgZbABu53-">Go to GitHub desktop download</a></td>
+    <td>https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/</td>
   </tr>
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Conveys team information to Talent POC</td>
-    <td>Immediately</td>
-    <td> Supervisor</td>
+    <td>Jekyll</td>
+    <td><a href="https://jekyllrb.com/docs/installation/">go to Jekyll download page</a></td>
+    <td>There are dependencies for use. Information in the download page. <a href="https://www.youtube.com%2Fwatch%3Fv%3Dn4b_tDTWxGs&usg=AOvVaw30TmKd3217ckq2RZG-5sNP">Explore video instructions</a></td>
   </tr>
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
-    <td>Conveys location information to Talent POC</td>
-    <td>Immediately</td>
-    <td> Supervisor</td>
+    <td>Prose.io</td>
+    <td>Recommend watching demo first. https://prose.io</td>
+    <td><a href="https://www.youtube.com/watch?v=ScFg7lvnLqw">View video</a> or https://github.com/prose/prose/wiki/Getting-Started</td>
   </tr>
 </table>
 
-## Engineering Team Director
+## Recommended Skills
 
 See the [Engineering new hire checklist](team-based-checklists/dev-new-hire-checklist.md).
 
-## Product Team Director
+## Frontend Design/IT
 
 See also: the [Product new hire checklist](team-based-checklists/product-new-hire-checklist.md).
 
