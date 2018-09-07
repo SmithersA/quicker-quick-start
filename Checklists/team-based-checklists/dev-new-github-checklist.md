@@ -30,7 +30,7 @@
     <td>&#9744;</td>
     <td>Customize your NRP data</td>
     <td></td>
-    <td>For UK, read more about <a href="https://github.com/ONSdigital/sdg-indicators/wiki/What-do-we-need-to-change#resetting-the-data">resetting the data</a></td>
+    <td>For UK platform, read more about <a href="https://github.com/ONSdigital/sdg-indicators/wiki/What-do-we-need-to-change#resetting-the-data">resetting the data</a></td>
     <td>Remove the US or UK statistics and metadata from the repository to complete installation.</td>
   </tr>
   <tr>
