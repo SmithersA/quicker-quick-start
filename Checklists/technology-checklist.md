@@ -95,7 +95,7 @@ See also: the [Custom design checklist](design-checklist.md).
     <td>&#9744;</td>
     <td>U.S. Web Design System</td>
     <td>provides guide on UI components for frontend design</td>
-    <td><a href="https://designsystem.digital.gov">https://designsystem.digital.gov</a></td>
+    <td><a href="https://designsystem.digital.gov">https://designsystem.digital.gov</a> and https://designsystem.digital.gov/documentation/video-tutorials/</td>
   </tr>
   <tr>
     <td scope="row">2</td>
