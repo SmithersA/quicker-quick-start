@@ -103,7 +103,7 @@ See also: the [Custom design checklist](design-checklist.md).
     <td>&#9744;</td>
     <td>Chartist.js</td>
     <td>a charting library that offers custom and responsive charts</td>
-    <td><a href="https://www.npmjs.com/package/chartist">go to Chartist documentation and install page</a> or <a href="https://www.youtube.com/watch?v=1Js0TTX-lhg">Visit demo video</a></td>
+    <td>go to <a href="https://www.npmjs.com/package/chartist">Chartist documentation and install page</a> or <a href="https://www.youtube.com/watch?v=1Js0TTX-lhg">Visit demo video</a></td>
     <td></td>
   </tr>
 </table>
