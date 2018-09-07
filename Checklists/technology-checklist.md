@@ -25,7 +25,7 @@ IT Team --> Technology
     <td scope="row">2</td>
     <td>&#9744;</td>
     <td>Install Ruby (recommended)</td>
-    <td><a href="https://www.ruby-lang.org/en/downloads/">Go to download page</a></td>
+    <td><a href="https://www.ruby-lang.org/en/downloads/">Go to Ruby download page</a></td>
     <td>https://www.ruby-lang.org/en/documentation/installation/ or https://www.codecademy.com/articles/ruby-setup</td>
   </tr>
   <tr>
