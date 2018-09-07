@@ -16,7 +16,6 @@
     <td>https://github.com</td>
     <td>View <a href="https://www.youtube.com/watch?v=uNa9GOtM6NE">webinar</a> and <a>resources</a></td>
     <td>Each member of your team that wishes to contribute to your code will need their own <a href="https://www.youtube.com/watch?v=46T7Nbssyow">GitHub account</a>.</td>
-    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
