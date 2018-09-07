@@ -18,7 +18,7 @@ IT team --> Technology
     <td scope="row">1</td>
     <td>&#9744;</td>
     <td>Install Git using the command line</td>
-    <td>Immediately</td>
+    <td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuxa2ZlKndAhWGtVkKHfP-DBIQ0EN6BAgEEAQ&url=https%3A%2F%2Fgit-scm.com%2Fdownloads&usg=AOvVaw0lUezWX14XXzFgZbABu53-">Go to Git download</a></td>
     <td>https://www.atlassian.com/git/tutorials/install-git or https://gist.github.com/derhuerst/1b15ff4652a867391f03</td>
   </tr>
   <tr>
