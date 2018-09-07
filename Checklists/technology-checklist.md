@@ -1,27 +1,25 @@
 
-Director --> New Hire
+IT team --> Technology
 ============
 
-## All Directors
+## All IT
 
 <table>
   <thead>
     <tr>
       <th scope="col"></th>
       <th scope="col">&#10003;</th>
-      <th scope="col">Task</th>
-      <th scope="col">When (From Selection)</th>
-      <th scope="col">Who Has Information / Completes Task</th>
-      <th scope="col">Who Receives Information</th>
-    </tr>
+      <th scope="col">Base</th>
+      <th scope="col">Where (to obtain from)</th>
+      <th scope="col">How to (guidance)</th>
+     </tr>
   </thead>
   <tr>
     <td scope="row">1</td>
     <td>&#9744;</td>
-    <td>Conveys supervisor information to Talent POC</td>
+    <td>Install Git using the command line</td>
     <td>Immediately</td>
-    <td> Supervisor</td>
-    <td> Talent POC</td>
+    <td>https://www.atlassian.com/git/tutorials/install-git or https://gist.github.com/derhuerst/1b15ff4652a867391f03</td>
   </tr>
   <tr>
     <td scope="row">2</td>
@@ -29,7 +27,6 @@ Director --> New Hire
     <td>Conveys team information to Talent POC</td>
     <td>Immediately</td>
     <td> Supervisor</td>
-    <td> Talent POC</td>
   </tr>
   <tr>
     <td scope="row">3</td>
@@ -37,55 +34,41 @@ Director --> New Hire
     <td>Conveys location information to Talent POC</td>
     <td>Immediately</td>
     <td> Supervisor</td>
-    <td> Talent POC</td>
   </tr>
+</table>
+
+## Backend IT
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">&#10003;</th>
+      <th scope="col">Technology</th>
+      <th scope="col">Where (to obtain from)</th>
+      <th scope="col">How to (guidance)</th>
+     </tr>
+  </thead>
   <tr>
-    <td scope="row">4</td>
+    <td scope="row">1</td>
     <td>&#9744;</td>
-    <td>Writes congrats email to candidate and requests references and documents / cc's Leah Gitter + Talent POC on email</td>
-    <td>Within 3 days</td>
+    <td>Conveys supervisor information to Talent POC</td>
+    <td>Immediately</td>
     <td> Supervisor</td>
-    <td> Talent POC + Leah</td>
   </tr>
   <tr>
-    <td scope="row">5</td>
+    <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Learns new hire's start date</td>
-    <td>Week before EOD </td>
-     <td> Talent</td>
-    <td> Supervisor </td>
+    <td>Conveys team information to Talent POC</td>
+    <td>Immediately</td>
+    <td> Supervisor</td>
   </tr>
   <tr>
-    <td scope="row">6</td>
+    <td scope="row">3</td>
     <td>&#9744;</td>
-    <td>Assign a buddy</td>
-    <td>Week before start date </td>
-     <td> Supervisor</td>
-    <td> Buddy, Onboarding Team </td>
-  </tr>
-  <tr>
-    <td scope="row">7</td>
-    <td>&#9744;</td>
-    <td>Reaches out to new hire to say hello and set up coffee chat</td>
-    <td>Day 1</td>
-    <td>Supervisor</td>
-    <td>New Hire</td>
-  </tr>
-  <tr>
-    <td scope="row">8</td>
-    <td>&#9744;</td>
-    <td>Explain billable hours - emphasize your policy re: billable hours. (Many new staff members will need to be reassured on this point.</td>
-    <td>During your coffee chat</td>
-    <td>Supervisor</td>
-    <td>New Hire</td>
-  </tr>
-  <tr>
-    <td scope="row">9</td>
-    <td>&#9744;</td>
-    <td>Gives new hire team-based checklist</td>
-    <td>Day 3</td>
-    <td>Supervisor</td>
-    <td>New Hire</td>
+    <td>Conveys location information to Talent POC</td>
+    <td>Immediately</td>
+    <td> Supervisor</td>
   </tr>
 </table>
 
