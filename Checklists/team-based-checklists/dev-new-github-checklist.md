@@ -23,7 +23,7 @@
     <td>Copy the US or UK platform</td>
     <td>For the <a href="https://github.com/GSA/sdg-indicators">US platform</a>. For the <a href="https://github.com/ONSdigital/sdg-indicators">UK platform</a></td>
     <td>Instructions on <a href="https://help.github.com/articles/fork-a-repo/">how to copy or "fork" in GitHub</a></td>
-    <td>Your new NRP website address will then be named https://<your-organization>.github.io/sdg-indicators/ .</td>
+    <td>Your new NRP website address will then be named "https://<your-organization>.github.io/sdg-indicators/" .</td>
   </tr>
   <tr>
     <!-- not dev-specific -->
