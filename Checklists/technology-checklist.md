@@ -74,7 +74,7 @@ IT Team --> Technology
 
 ## Recommended Skills
 
-See the [Coding new NRP checklist](team-based-checklists/dev-new-github-checklist.md).
+Basic HTML and CSS, Markdown, some understanding of Prose.
 
 ## Frontend Design/IT
 
